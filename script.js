@@ -23,7 +23,7 @@ class Square extends Rectangle{
 		super(sq_s,sq_s)
 	}
 	getPerimeter(){
-		return 4*sq_s
+		return 4*this.widht
 	}
 }
 
