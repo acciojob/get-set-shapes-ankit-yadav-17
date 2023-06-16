@@ -24,7 +24,7 @@ class Square extends Rectangle{
 	}
 
 	getArea(){
-		return sq_s* sq_s
+		return this.sq_s* this.sq_s
 	}
 	getPerimeter(){
 		return sq_s * 4
